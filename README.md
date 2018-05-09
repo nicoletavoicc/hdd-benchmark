@@ -1,2 +1,2 @@
 # hdd-benchmark
-HDD benchmark tool
+HDD benchmark tool for school assignment
